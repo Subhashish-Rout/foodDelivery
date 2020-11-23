@@ -1,0 +1,30 @@
+html{
+    background-color: #fff;
+    color: #555;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+    font-size: 13px;
+    text-rendering: optimizeLegibility;
+}
+h1{
+    color: #fff;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 100;
+    font-size: 40px;
+    padding-left: 35%;
+    padding-top: 2%;
+}
+form{
+    padding-left : 30%;
+    padding-right: 30%;
+    padding-top: 1%;
+    padding-bottom: 20%;
+    color: #fff;
+}
+body{
+    overflow: hidden;
+    background-image: linear-gradient(#000000dc,#000000dc), url(img/salad-with-chicken.jpg) ;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
